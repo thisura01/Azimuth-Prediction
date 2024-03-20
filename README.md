@@ -25,7 +25,7 @@ This project aims to predict the correct azimuth for antennas based on input fea
 ## Contributors
 
 - Thisura Thibbotuge : https://github.com/thisura01
-- Chathuni Kandawinna
+- Chathuni Kandawinna : https://github.com/ChathuniiK
 - Raveesha Dulmi
 - Ravisha Nilneth
 - Sashani Liyanage
